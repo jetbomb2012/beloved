@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: 聯絡新黑澀會
 ---
 
 <div id="contact">
