@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年2月16會戰獎懲公告"
 date:   2024-2-16
-description: 
+description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 百場正分獎:獅爺LEO,Lingoce, 得二十萬
 七十場正分獎:酷ano, 得十萬
 新人獎: 友緣, 水箭龜, 得一萬
