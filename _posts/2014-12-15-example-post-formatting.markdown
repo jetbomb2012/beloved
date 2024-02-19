@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2024年2月16會戰獎懲公告"
-date:   2014-12-16
+date:   2024-2-16
 description: 
 百場正分獎:獅爺LEO,Lingoce, 得二十萬
 七十場正分獎:酷ano, 得十萬
