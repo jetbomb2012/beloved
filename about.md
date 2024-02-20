@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: 新黑澀會
 ---
 
 <div class="post">
