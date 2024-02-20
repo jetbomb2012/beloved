@@ -6,11 +6,10 @@
                  {%- for link in site.navigation -%}{%- assign current = nil -%}{%- if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' -%}{%- assign current = 'current' -%}{%- endif -%}
                  <li class="element {%- if forloop.first -%}first{%- endif -%} {{ current }} {%- if forloop.last -%}last{%- endif -%}">
                      <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
-                 </li>
-                 {%- endfor -%}
+                 <li><a href="https://mjok.top">麻將訓練中心</a></li>
                  <li> <a href="https://github.com/jetbomb2012/beloved/issues/new" target="_blank">留言</a></li>
                  <li><a href="https://mj-king.top">新黑澀會網站</a></li
-                 <li><a href="https://mjok.top">麻將訓練中心</a></li>                                           
+                                                            
              </ul>
          </nav>
      </div>
