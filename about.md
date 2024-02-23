@@ -4,7 +4,7 @@ title: 新黑澀會
 ---
 
 <div class="post">
-	<h1 class="pageTitle">目標成為前三大公會</h1>
+	<h1 class="pageTitle">使命是成為前三大</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
 	<p class="intro">預訂於2024年年中, 成為戲谷前三大公會之一</p>
 	
