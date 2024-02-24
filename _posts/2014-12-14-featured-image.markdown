@@ -5,9 +5,9 @@ date:   2024-02-24
 image: touring.jpg
 ---
 
-<p class="intro"><span class="dropcap">軍事委員會成員名單</span></p>
+<p class="intro"><span class="dropcap">軍事委員會成員名單(傑邦上兵,獅爺LEO,Lingoce)</span></p>
 
-<P 傑邦上兵,獅爺LEO,Lingoce /P>
+<P  /P>
 
   
   決行事項
