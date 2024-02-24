@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "軍委會戰報(傑邦上兵,獅爺,Lingoce)"
+title:  "軍委會戰報(傑邦上兵,獅爺LEO,Lingoce)"
 date:   2024-02-24
 image: touring.jpg
 ---
