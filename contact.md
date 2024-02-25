@@ -6,7 +6,9 @@ title: 聯絡新黑澀會
 <div id="contact">
   <h1 class="pageTitle">聯絡新黑澀會</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
+    <p class="intro">請賜給他謙遜，使他可以永遠記住真實偉大的樸實無華，真實智慧的虛懷若谷，和真實力量的溫和蘊藉。</p>
+
+
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
     <p>If you have questions about the theme feel free to <a href="https://mj-king.top">email me</a> or create an issue on <a href="https://mj-king.top">GitHub</a>. Enjoy!</p>
   </div>
