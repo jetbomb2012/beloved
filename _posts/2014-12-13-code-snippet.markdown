@@ -4,7 +4,7 @@ title:  "2024/03/03公會戰敍獎"
 date:   2024-03-03
 ---
 
-<p class="intro"><span class="dropcap">Y</span>副會長獅爺LEO與紫陽天得百分正20萬金</p>
+<p class="intro"><span class="dropcap"></span>副會長獅爺LEO與紫陽天得百分正20萬金</p>
 
 
 
