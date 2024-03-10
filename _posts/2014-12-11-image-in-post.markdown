@@ -8,7 +8,7 @@ date:   2024-03-11
 
 
 
-<img src="/assets/img/touring.jpg" alt=""> 
+
 
 
 
