@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "公會基金成立"
+title:  "新黑澀會公同基金成立"
 date:   2024-03-11
 ---
 
-<p class="intro"><span class="dropcap"></span>全數用於會長獎助金</p>
+<p class="intro"><span class="dropcap"></span>公會基金用於會長獎助金用</p>
 
 
 
@@ -23,4 +23,3 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
-
