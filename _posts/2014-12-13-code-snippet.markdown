@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2024/03/03公會戰敍獎"
+title:  "新澀會公會基金成立"
 date:   2024-03-10
 ---
 
-<p class="intro"><span class="dropcap"></span>副會長獅爺LEO與紫陽天得百分正20萬金</p>
+<p class="intro"><span class="dropcap"></span>全數用於會長獎助金練兵使用</p>
 
 
 
