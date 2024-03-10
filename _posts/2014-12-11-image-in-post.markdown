@@ -4,7 +4,7 @@ title:  "公會基金成立"
 date:   2024-03-11
 ---
 
-<p class="intro"><span class="dropcap"></span>公會基70%留用作為會長獎助金使用.</p>
+<p class="intro"><span class="dropcap"></span>公會基金70%留用作為會長獎助金使用.</p>
 
 Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
 
