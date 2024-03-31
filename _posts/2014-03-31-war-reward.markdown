@@ -2,7 +2,7 @@
 layout: post
 title:  "2024/3/31會戰獎懲公告"
 date:   2024-3-31
-description: 百場正分獎(獅爺LEO得二十萬),七十五場正分獎(水組長得五萬),四十五場正分獎(exchange得五萬)
+description: 百場正分獎(獅爺LEO得二十萬),七十五場正分獎(水組長得十萬),四十五場正分獎(exchange得五萬)
 
 
 
