@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "2024/4/05會戰獎懲新制公告"
+date:   2024-04-05
+description: 百場正分獎為最後一戰( 新進會員除外)
+其它會規制度開放( 未在二十名內, 獎金領半)
+
+
+
+
+---
+
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
