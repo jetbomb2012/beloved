@@ -1,9 +1,12 @@
-
+---
 layout: post
-title:  "2024/4/06特別方案"
+title:  "2024/4/06特別借貸公告"
 date:   2024-4-06
-description: 會員限與會長層級間借貸
+description: 限與會長級別間,手續費百分百,限公會戰前一日,且有獎金額度,非會長獎助金者
+
+
+
 
 ---
 
-<p class="intro"><span class="dropcap"></span>手續費率百分百, 借五萬,還五萬,限公會戰前一日! 且有獎在案者(不包含公會獎助金)</p>
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
