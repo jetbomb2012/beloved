@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "2024/4/07會戰請假原則公告"
+date:   2024-4-07
+description: 比照一般公會原則,請假則先離公會,因留位不進行公會戰,影響公會評價!(限公會戰前一日)
+
+
+
+
+---
+
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
