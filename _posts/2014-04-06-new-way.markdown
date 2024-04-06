@@ -6,4 +6,4 @@ description: 會員限與會長層級間借貸
 
 ---
 
-<p class="intro"><span class="dropcap">C</span>手續費率百分百, 借五萬,還五萬,限公會戰前一日! 且有獎在案者(不包含公會獎助金)</p>
+<p class="intro"><span class="dropcap"></span>手續費率百分百, 借五萬,還五萬,限公會戰前一日! 且有獎在案者(不包含公會獎助金)</p>
