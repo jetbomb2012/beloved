@@ -2,7 +2,7 @@
 layout: post
 title:  "2024/4/09會戰獎金發放原則"
 date:   2024-4-09
-description: 外債優先,其次會長認諾獎項, 再次公會獎助金項目
+description: 外債優先,其次會長認諾獎項, 再次公會獎助金
 
 
 
