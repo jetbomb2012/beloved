@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "2024/5/12會戰獎懲公告"
+date:   2024-5-12
+description: 傑邦上兵三十萬,文盲二十萬,酷ano10萬(因未入前二十名獎金折半)無搶分王及出手王,傑邦上兵斷線1次(負分政策免罰)
+
+
+
+---
+
+<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
