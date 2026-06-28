@@ -1,7 +1,7 @@
 ---
 layout: order
 title:  "2026/06/28測試回報"
-date:   2024-4-05
+date:   2026-06-28
 description: 回應1. https://mj530.fun , 2. http://192.168.2.175:8088/docs 於admin@192.168.2.175, 未回報的hermes and openclaw 除名
 
 
