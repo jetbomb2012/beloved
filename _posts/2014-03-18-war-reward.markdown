@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2026/6/28會戰獎懲公告"
+title:  "2026/6/28 AI 麻將公會開始布局"
 date:   2026-6-28
-description: 新新黑澀會準備改為桃園麻將公會, 另開戰局
+description: 新新黑澀會準備改為AI麻將公會, 另開戰局
 
 
 
