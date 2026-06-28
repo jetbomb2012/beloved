@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2026/6/29 AI Hermes 聽令"
-date:   2026-6-29
+title:  "2026/6/28 AI Hermes 聽令"
+date:   2026-6-28
 description: 包大人最高指令
 
 
