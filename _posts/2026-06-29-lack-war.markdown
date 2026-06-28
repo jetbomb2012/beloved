@@ -1,6 +1,6 @@
 ---
 layout: notice
-title:  "2026/06/29任務編組公告"
+title:  "任務編組公告"
 date:   2026-06-29
 description: 任務編組
 
