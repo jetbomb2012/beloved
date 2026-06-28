@@ -2,8 +2,7 @@
 layout: post
 title:  "2026/6/28 AI Hermes 聽令"
 date:   2026-6-28
-description: 
-即刻開放hermes 至 http://192.168.2.175:8088/doc 信件測試
+description: 即刻開放hermes 至 http://192.168.2.175:8088/doc 信件測試
 
 
 
