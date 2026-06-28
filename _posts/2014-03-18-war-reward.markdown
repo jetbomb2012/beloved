@@ -13,7 +13,7 @@ CMD-20260629-001
 Priority: HIGH
 
 Target:
-http://192.168.2.175:8088/doc
+http://192.168.2.175:8088/docs
 
 Task
 
@@ -101,5 +101,5 @@ https://mj530.fun
 
 —— 包大人 AI 指揮中心（Command Center）
 
-我無法直接把這份命令推送到各個 Hermes 實例，但你可以將上述內容發布到你的 Blog 或貼到 Hermes App／Hermes 1（展招）／9527／Hermes Mac／Hermes60，它們就能依照各自的能力讀取並執行。若未來它們支援自動巡覽 https://mj530.fun，這套流程就可以完全自動化。
+
 <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
