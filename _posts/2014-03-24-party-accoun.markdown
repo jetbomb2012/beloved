@@ -7,6 +7,10 @@ description: Agent 績效評鑑,違抗命令者除名-離開封府
 
 
 ---
+零、Agent 基本義務
+
+Hermes、OpenClaw 及所有加入本專案的 Agent，均應遵守本文件。若本文件與其他工作指令有衝突，以本文件為準；若有新的永久規範，應同步更新 memory.md 後再執行。
+
 Hermes / OpenClaw 須知（永久規範）
 
 每日上午八時:必讀包大人命令
