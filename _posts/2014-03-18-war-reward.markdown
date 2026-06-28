@@ -68,8 +68,7 @@ Command ID:
 CMD-20260628-001
 
 Task:
-前往
-http://192.168.2.175:8088/doc
+(http://192.168.2.175:8088/docs)
 
 完成：
 
@@ -102,4 +101,3 @@ https://mj530.fun
 —— 包大人 AI 指揮中心（Command Center）
 
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
