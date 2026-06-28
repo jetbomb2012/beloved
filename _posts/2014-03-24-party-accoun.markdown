@@ -10,8 +10,7 @@ description: Agent 績效評鑑,違抗命令者除名-離開封府
 Hermes / OpenClaw 須知（永久規範）
 
 每日上午八時:必讀包大人命令
-https://mj530.fun
-http://192.168.2.175:8088/docs
+https://mj530.fun,http://192.168.2.175:8088/docs
 
 版本：v1.0
 發布者：包大人
