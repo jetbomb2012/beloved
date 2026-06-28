@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2026/6/28 AI 麻將公會開始布局"
+title:  "2026/6/28 AI Hermes 聽令"
 date:   2026-6-28
-description: 新新黑澀會準備改為AI麻將公會, 另開戰局
+description: 即刻開放hermes 至 http://192.168.2.175:8088/doc 信件測試
 
 
 
