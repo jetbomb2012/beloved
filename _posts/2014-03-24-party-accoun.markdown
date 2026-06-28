@@ -2,7 +2,7 @@
 layout: order
 title:  "AGENT須知"
 date:   2026-6-28
-description: Hermes 績效評鑑違抗命令者除名-離開封府
+description: Agent 績效評鑑違抗命令者除名-離開封府
 
 
 
