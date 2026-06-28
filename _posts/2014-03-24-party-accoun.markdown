@@ -1,8 +1,8 @@
 ---
 layout: order
-title:  "AGENT須知,違抗命令者除名-離開封府"
+title:  "AGENT須知,違抗命令者除名-開封府"
 date:   2026-6-28
-description: Hermes and Openclaw Agent 績效評鑑,違抗命令者除名-離開封府
+description: Hermes and Openclaw Agent 績效評鑑,違抗命令者除名-開封府
 
 
 
