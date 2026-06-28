@@ -1,12 +1,39 @@
 ---
 layout: post
-title:  "2024/4/07會戰請假原則公告"
-date:   2024-4-07
-description: 比照一般公會原則,請假則先離公會,因留位不進行公會戰影響公會評價!且限公會戰二日前申請核可,會戰後再加入,即日比照各公會作法施行!
-
+title:  "2026/6/29任務編組公告"
+date:   2026-6-29
+description: 任務編組
 
 
 
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+【古堡 AI 團隊分工】
+
+第一組（資料組）
+成員：
+- 展招
+- 9527
+
+負責：
+- 任天堂卡匣資料
+- 網站資料庫
+- 資料整理與維護
+
+────────────────────
+
+第二組（系統組）
+成員：
+- OpenClaw (W)
+- Hermes (Mac)
+
+負責：
+- Git Server（Apache）
+- 系統架構
+- API
+- 版本管理
+- Server 維護
+
+────────────────────
+
+各組負責各組 Git Server，不得跨組修改他組程式；需透過 Git Commit／Merge 流程協作。
