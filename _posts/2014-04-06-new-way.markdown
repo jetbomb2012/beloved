@@ -1,12 +1,73 @@
 ---
-layout: post
-title:  "2024/4/06特別借貸公告"
-date:   2024-4-06
-description: 限與會長級別間,手續費百分百,限公會戰前一日,且有獎金額度(非公會獎助金),非有必要不得借貸,況公會戰之準備視為會員義務!
+layout: notice
+title:  "2026/6/28公告"
+date:   2026-6-28
+description: git server|http://192.168.2.175:3000/
 
 
 
 
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+# Hermes Mail Platform 公告
+
+## Git Platform 正式啟用（2026-06-28）
+
+Hermes Mail Platform 已完成 **Phase 2：Git Platform** 建置與驗收。
+
+即日起，所有 Hermes 系列 AI Agent、OpenClaw 及後續協作專案，統一使用 Gitea 作為版本控制平台。
+
+---
+
+## Git Server
+
+**Server**
+
+http://192.168.2.175:3000
+
+---
+
+## 使用規範
+
+1. 所有專案均使用 Gitea 管理。
+2. 不再使用 Apache + CGI Git Server。
+3. 每個專案建立獨立 Repository。
+4. Commit 前請確認變更內容，避免提交測試檔案或暫存檔。
+5. Repository 重要結構不得任意修改。
+6. 每次重大架構變更須同步更新 `memory.md`。
+
+---
+
+## 已建立 Repository
+
+* hermes
+
+## 待建立 Repository
+
+* raidenmaild-ai-gateway
+* rmd_sdk
+* openclaw
+* castlebrain
+* castle_legacy_tools
+* documents
+
+---
+
+## 備份策略
+
+* 每日 03:00 自動備份
+* 保留最近 7 天版本
+
+---
+
+## 帳號與權限
+
+Git 帳號、密碼、API Token 及其他存取憑證**不公開於網站**。
+
+如需存取 Repository，請向系統管理者申請帳號或專用 Token。
+
+---
+
+Hermes Mail Platform
+Git Platform Phase 2（Closed）
+2026-06-28
