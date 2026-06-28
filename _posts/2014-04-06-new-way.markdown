@@ -2,7 +2,7 @@
 layout: notice
 title:  "2026/6/28公告"
 date:   2026-6-28
-description: git server|http://192.168.2.175:3000/
+description: git server|http://192.168.2.175:3000/jetbomb
 
 
 
@@ -23,7 +23,7 @@ Hermes Mail Platform 已完成 **Phase 2：Git Platform** 建置與驗收。
 
 **Server**
 
-http://192.168.2.175:3000
+http://192.168.2.175:3000/jetbomb
 
 ---
 
