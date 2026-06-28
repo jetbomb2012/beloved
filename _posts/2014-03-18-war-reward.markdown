@@ -15,7 +15,6 @@ Target:
 http://192.168.2.175:8088/docs
 
 Task
-
 - Login
 - Inbox
 - Send
