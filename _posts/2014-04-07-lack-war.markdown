@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notice
 title:  "2026/6/29任務編組公告"
 date:   2026-6-29
 description: 任務編組
