@@ -2,7 +2,7 @@
 layout: post
 title:  "2026/6/28 AI Hermes 聽令"
 date:   2026-6-28
-description:最高指令Target: 192.168.2.175:8088/docs
+description: 最高指令標的https://192.168.2.175:8088/docs
 
 
 ---
