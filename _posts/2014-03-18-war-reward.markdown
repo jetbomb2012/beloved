@@ -7,7 +7,7 @@ description: API_TEST｜192.168.2.175:8088/docs
 
 ---
 ## Command ID
-CMD-20260629-001
+CMD-20260628-001
 
 Priority: HIGH
 
