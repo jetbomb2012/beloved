@@ -2,8 +2,7 @@
 layout: post
 title:  "2026/6/29 AI Hermes 聽令"
 date:   2026-6-29
-description: 包大人最高指令-AI- Command Center
-
+description: 包大人最高指令
 
 
 
