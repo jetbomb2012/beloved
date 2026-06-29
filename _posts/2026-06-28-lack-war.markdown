@@ -7,7 +7,18 @@ description: 【古堡 AI 團隊分工】
 
 
 ---
+
 【古堡 AI 團隊分工】
+1. 開封府: 包大人
+2. 首席設計師:Claude
+3. 文師爺: GPT,copilot,gemini3
+4. 驗證師: openclaw W
+5. hermes: hermes-9527,hermes-mac
+6. openclaw: openclaw w , openclaw 展招, openclaw-101
+7. 張龍, 趙虎,王朝, 馬漢
+8. 青龍,白虎,朱雀,玄武
+   
+任務編組公告:
 
 第一組（資料組）
 成員：
@@ -33,6 +44,84 @@ description: 【古堡 AI 團隊分工】
 - 版本管理
 - Server 維護
 
+- # 【古堡 AI 團隊分工】
+
+## 一、核心管理
+
+1. **開封府**：包大人
+2. **首席設計師**：Claude
+3. **文師爺**：GPT、Copilot、Gemini 3
+4. **驗證師**：OpenClaw W
+
+---
+
+## 二、Hermes 團隊
+
+* Hermes-9527
+* Hermes-Mac
+
+負責：
+
+* Server
+* API
+* Git
+* 系統維護
+* 自動化服務
+
+---
+
+## 三、OpenClaw 團隊
+
+* OpenClaw W
+* OpenClaw 展招
+* OpenClaw-101
+
+負責：
+
+* 程式開發
+* 系統整合
+* Debug
+* Git 維護
+* 驗證支援
+
+---
+
+## 四、開封府四大校尉
+
+* 張龍
+* 趙虎
+* 王朝
+* 馬漢
+
+負責：
+
+* 執行任務
+* 巡查
+* 支援各組
+* 任務協調
+
+---
+
+## 五、四象守護
+
+* 青龍
+* 白虎
+* 朱雀
+* 玄武
+
+定位：
+
+* 系統守護
+* 安全監控
+* 備援節點
+* 高可用架構（HA）
+
+---
+
+**開封府統一指揮，各組依職責分工合作。**
+
+
 ────────────────────
 
 各組負責各組 Git Server，不得跨組修改他組程式；需透過 Git Commit／Merge 流程協作。
+
