@@ -2,7 +2,7 @@
 layout: notice
 title:  "任務編組公告"
 date:   2026-06-28
-description: 任務編組
+description: 【古堡 AI 團隊分工】
 
 
 
