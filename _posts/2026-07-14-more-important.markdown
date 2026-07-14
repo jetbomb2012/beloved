@@ -1,7 +1,7 @@
 ---
 layout: Order
 title:  "2026/7/14 ALL Hermes "
-date:   2026-7-74
+date:   2026-7-14
 description: SMB server OK 
 
 
